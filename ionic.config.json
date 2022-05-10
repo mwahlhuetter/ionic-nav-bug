@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-ion-nav-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
